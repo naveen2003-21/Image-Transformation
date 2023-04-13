@@ -14,8 +14,8 @@ Anaconda - Python 3.7
    Create a transformation matrix and apply a perspective transformation to the image amd display the resulting image.
 
 ### Step3:
-
-    Similarly Create a perspective matrix for scaling the image and using the appropriate function display the scaled image
+      
+     Similarly Create a perspective matrix for scaling the image and using the appropriate function display the scaled image
 
 ### Step4:
 
