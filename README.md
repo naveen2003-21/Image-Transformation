@@ -7,24 +7,22 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
    Import the necessary libraries and read the original image and save it a image variable.
 
-###Step2:
-<br>
+### Step2:
+
    Create a transformation matrix and apply a perspective transformation to the image amd display the resulting image.
 
-###Step3:
-<br>
+### Step3:
+
     Similarly Create a perspective matrix for scaling the image and using the appropriate function display the scaled image
 
-###Step4:
-<br>
+### Step4:
+
    Specify the angle of rotation in radians for displaying rotated image and display it.
 
 ### Step5:
    End the execution.
-<br>
 
 ## Program:
 ```python
