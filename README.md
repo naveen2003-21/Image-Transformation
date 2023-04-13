@@ -15,7 +15,7 @@ Anaconda - Python 3.7
 
 ### Step3:
       
-     Similarly Create a perspective matrix for scaling the image and using the appropriate function display the scaled image
+    Similarly Create a perspective matrix for scaling the image and using the appropriate function display the scaled image.
 
 ### Step4:
 
