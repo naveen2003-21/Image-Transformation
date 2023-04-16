@@ -94,59 +94,25 @@ plt.title("Cropped Image")
 plt.imshow(cropped_img)
 plt.show
 
-
-
-
-
-
-
 ```
 ## Output:
 ### i)Image Translation
-<br>
-<br>
-<br>
-<br>
+![image1](https://user-images.githubusercontent.com/94387019/232280405-8c080b2f-37f0-42ef-af03-1b48f9d52824.jpg)
 
 ### ii) Image Scaling
-<br>
-<br>
-<br>
-<br>
-
+![image2](https://user-images.githubusercontent.com/94387019/232280443-6c8c9d3d-78f5-41c4-a3da-8e469c8a6b8d.jpg)
 
 ### iii)Image shearing
-<br>
-<br>
-<br>
-<br>
-
+![image3](https://user-images.githubusercontent.com/94387019/232280461-3760f939-dac7-41a5-be94-b3cede42e0eb.jpg)
 
 ### iv)Image Reflection
-<br>
-<br>
-<br>
-<br>
-
-
+![image4](https://user-images.githubusercontent.com/94387019/232280467-ff6e6ddc-6033-4581-aea9-028b96caa3f4.jpg)
 
 ### v)Image Rotation
-<br>
-<br>
-<br>
-<br>
-
-
+![image5](https://user-images.githubusercontent.com/94387019/232280478-490f4810-3d64-4162-8b71-321c968f7f51.jpg)
 
 ### vi)Image Cropping
-<br>
-<br>
-<br>
-<br>
-
-
-
+![image6](https://user-images.githubusercontent.com/94387019/232280484-3bc518b2-a017-4715-bed3-4c683c8097e7.jpg)
 
 ## Result: 
-
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
